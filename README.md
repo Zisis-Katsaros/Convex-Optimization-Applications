@@ -14,12 +14,12 @@ These methods are tested on the following three functions:
 - $f_2(x) = e^{-2x} + (x-2)^2$
 - $f_3(x) = e^x \cdot (x^3-1) + (x-1) \cdot \sin(x)$
 
-You can read the documentation of this project [here](Project-#1/project1.docs.md).
+You can read the documentation of this project [here](Project%20%231/project1.docs.md).
 
 ## Project 2
 
-This project focuses on minimizing a multivariate function $f : \mathbb{R}^n \to \mathbb{R}$ without constraints using algorithms based on iterative descent strategies. Three optimization methods are implemented and compared: the steepest descent method, Newton's method, and the Levenberg-Marquardt method. The objective function is: $f(x,y) = x^5 e^{-x^2-y^2}$. You can read the documentation of this project [here](Project-#2/project2.docs.md).
+This project focuses on minimizing a multivariate function $f : \mathbb{R}^n \to \mathbb{R}$ without constraints using algorithms based on iterative descent strategies. Three optimization methods are implemented and compared: the steepest descent method, Newton's method, and the Levenberg-Marquardt method. The objective function is: $f(x,y) = x^5 e^{-x^2-y^2}$. You can read the documentation of this project [here](Project%20%232/project2.docs.md).
 
 ## Project 3
 
-This project focuses on minimizing a constrained multivariate function $f : \mathbb{R}^n \to \mathbb{R}$ using the projected steepest descent method. A key aspect of this project is investigating how the choice of initial point, step size ($\gamma_k$), and projection parameter ($s_k$) affect algorithm convergence. The interplay between these parameters and their impact on solution quality and iteration count is analyzed in detail. The objective function is: $f(x) = \frac{1}{3}x_1^2 + 3x_2^2, \quad x = [x_1, x_2]^T$. You can read the documentation of this project [here](Project-#3/project3.docs.md).
+This project focuses on minimizing a constrained multivariate function $f : \mathbb{R}^n \to \mathbb{R}$ using the projected steepest descent method. A key aspect of this project is investigating how the choice of initial point, step size ($\gamma_k$), and projection parameter ($s_k$) affect algorithm convergence. The interplay between these parameters and their impact on solution quality and iteration count is analyzed in detail. The objective function is: $f(x) = \frac{1}{3}x_1^2 + 3x_2^2, \quad x = [x_1, x_2]^T$. You can read the documentation of this project [here](Project%20%233/project3.docs.md).
